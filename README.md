@@ -1,1 +1,1 @@
-Assingment B9-A4 question and solution
+# Basic javascript problem and solution
